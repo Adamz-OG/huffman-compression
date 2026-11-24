@@ -1,5 +1,9 @@
 # huffman-compression
 
+[![tests](https://github.com/Adamz-OG/huffman-compression/actions/workflows/tests.yml/badge.svg)](https://github.com/Adamz-OG/huffman-compression/actions/workflows/tests.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Licence MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
+
 Compresseur de fichiers sans perte basé sur le codage de Huffman, écrit en Python pur (aucune dépendance externe).
 
 ```console
