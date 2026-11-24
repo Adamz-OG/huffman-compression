@@ -31,7 +31,7 @@ Le but du projet est de construire un vrai outil, pas seulement l'algorithme : c
 Python 3.10 ou plus récent.
 
 ```bash
-git clone https://github.com/5b6hgtms4y-boop/huffman-compression.git
+git clone https://github.com/Adamz-OG/huffman-compression.git
 cd huffman-compression
 python -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
